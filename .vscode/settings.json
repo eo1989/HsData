@@ -1,0 +1,7 @@
+{
+    "haskell.formattingProvider": "brittany",
+    "gitlens.blame.ignoreWhitespace": true,
+    "testExplorer.addToEditorContextMenu": true,
+    "testExplorer.mergeSuites": true,
+    "markdownlint.run": "onSave"
+}
